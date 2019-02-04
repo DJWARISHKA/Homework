@@ -1,0 +1,11 @@
+C:\Users\oxrar\source\repos\Homework\Cursor\bin\Debug\netcoreapp2.1\Cursor.deps.json
+C:\Users\oxrar\source\repos\Homework\Cursor\bin\Debug\netcoreapp2.1\Cursor.runtimeconfig.json
+C:\Users\oxrar\source\repos\Homework\Cursor\bin\Debug\netcoreapp2.1\Cursor.runtimeconfig.dev.json
+C:\Users\oxrar\source\repos\Homework\Cursor\bin\Debug\netcoreapp2.1\Cursor.dll
+C:\Users\oxrar\source\repos\Homework\Cursor\bin\Debug\netcoreapp2.1\Cursor.pdb
+C:\Users\oxrar\source\repos\Homework\Cursor\obj\Debug\netcoreapp2.1\Cursor.csprojAssemblyReference.cache
+C:\Users\oxrar\source\repos\Homework\Cursor\obj\Debug\netcoreapp2.1\Cursor.csproj.CoreCompileInputs.cache
+C:\Users\oxrar\source\repos\Homework\Cursor\obj\Debug\netcoreapp2.1\Cursor.AssemblyInfoInputs.cache
+C:\Users\oxrar\source\repos\Homework\Cursor\obj\Debug\netcoreapp2.1\Cursor.AssemblyInfo.cs
+C:\Users\oxrar\source\repos\Homework\Cursor\obj\Debug\netcoreapp2.1\Cursor.dll
+C:\Users\oxrar\source\repos\Homework\Cursor\obj\Debug\netcoreapp2.1\Cursor.pdb

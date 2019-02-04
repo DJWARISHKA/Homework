@@ -1,0 +1,11 @@
+C:\Users\oxrar\source\repos\Homework\Snake\bin\Debug\netcoreapp2.1\Snake.deps.json
+C:\Users\oxrar\source\repos\Homework\Snake\bin\Debug\netcoreapp2.1\Snake.runtimeconfig.json
+C:\Users\oxrar\source\repos\Homework\Snake\bin\Debug\netcoreapp2.1\Snake.runtimeconfig.dev.json
+C:\Users\oxrar\source\repos\Homework\Snake\bin\Debug\netcoreapp2.1\Snake.dll
+C:\Users\oxrar\source\repos\Homework\Snake\bin\Debug\netcoreapp2.1\Snake.pdb
+C:\Users\oxrar\source\repos\Homework\Snake\obj\Debug\netcoreapp2.1\Snake.csprojAssemblyReference.cache
+C:\Users\oxrar\source\repos\Homework\Snake\obj\Debug\netcoreapp2.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\oxrar\source\repos\Homework\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfoInputs.cache
+C:\Users\oxrar\source\repos\Homework\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfo.cs
+C:\Users\oxrar\source\repos\Homework\Snake\obj\Debug\netcoreapp2.1\Snake.dll
+C:\Users\oxrar\source\repos\Homework\Snake\obj\Debug\netcoreapp2.1\Snake.pdb

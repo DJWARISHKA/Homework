@@ -1,0 +1,7 @@
+c:\users\oxrar\source\repos\Homework\Homework\bin\Debug\Homework.exe.config
+c:\users\oxrar\source\repos\Homework\Homework\bin\Debug\Homework.exe
+c:\users\oxrar\source\repos\Homework\Homework\bin\Debug\Homework.pdb
+c:\users\oxrar\source\repos\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+c:\users\oxrar\source\repos\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+c:\users\oxrar\source\repos\Homework\Homework\obj\Debug\Homework.exe
+c:\users\oxrar\source\repos\Homework\Homework\obj\Debug\Homework.pdb

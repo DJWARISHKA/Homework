@@ -1,0 +1,11 @@
+C:\Users\oxrar\source\repos\Homework\Pifagor\bin\Debug\netcoreapp2.1\Pifagor.deps.json
+C:\Users\oxrar\source\repos\Homework\Pifagor\bin\Debug\netcoreapp2.1\Pifagor.runtimeconfig.json
+C:\Users\oxrar\source\repos\Homework\Pifagor\bin\Debug\netcoreapp2.1\Pifagor.runtimeconfig.dev.json
+C:\Users\oxrar\source\repos\Homework\Pifagor\bin\Debug\netcoreapp2.1\Pifagor.dll
+C:\Users\oxrar\source\repos\Homework\Pifagor\bin\Debug\netcoreapp2.1\Pifagor.pdb
+C:\Users\oxrar\source\repos\Homework\Pifagor\obj\Debug\netcoreapp2.1\Pifagor.csprojAssemblyReference.cache
+C:\Users\oxrar\source\repos\Homework\Pifagor\obj\Debug\netcoreapp2.1\Pifagor.csproj.CoreCompileInputs.cache
+C:\Users\oxrar\source\repos\Homework\Pifagor\obj\Debug\netcoreapp2.1\Pifagor.AssemblyInfoInputs.cache
+C:\Users\oxrar\source\repos\Homework\Pifagor\obj\Debug\netcoreapp2.1\Pifagor.AssemblyInfo.cs
+C:\Users\oxrar\source\repos\Homework\Pifagor\obj\Debug\netcoreapp2.1\Pifagor.dll
+C:\Users\oxrar\source\repos\Homework\Pifagor\obj\Debug\netcoreapp2.1\Pifagor.pdb
