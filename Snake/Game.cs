@@ -16,9 +16,9 @@ namespace Snake
             food = new Food();
             snake.Start();
             snake.GetDirection(Direction.Up);
-            food.Exist = false;
-            time = new Timer(Loop, null, 0, 100);
+            food.Exist = false;            
             char c = ' ';
+            time = new Timer(Loop, null, 0, 100);
             while (c != 27)
             {
                 snake.Last_go = snake.Go;
